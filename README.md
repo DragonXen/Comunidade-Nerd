@@ -6,7 +6,7 @@ Comunidade de tecnologia e cultura nerd, reunindo desenvolvedores, entusiastas d
 
 Entre no grupo do WhatsApp: [Comunidade Nerd no WhatsApp](https://chat.whatsapp.com/Cwjj7TRlOTKJZavAkm94U2)
 
-Antes de participar, leia a [Constituição da Comunidade](CONSTITUICAO.md), que vale para todos os grupos.
+Antes de participar, leia a [Constituição da Comunidade](Regras/CONSTITUICAO.md), que vale para todos os grupos.
 
 ## Grupos
 
@@ -23,7 +23,7 @@ Sugestões de novas regras, melhorias e correções podem ser feitas pelo [repos
 
 ## Isenção de responsabilidade
 
-As informações e orientações compartilhadas na comunidade são fornecidas sem garantias. Leia o texto completo em [ISENCAO.md](ISENCAO.md).
+As informações e orientações compartilhadas na comunidade são fornecidas sem garantias. Leia o texto completo em [ISENCAO.md](Avisos/ISENCAO.md).
 
 ## Licença
 

@@ -34,4 +34,4 @@ A comunidade é licenciada sob a Licença MIT. Os materiais são fornecidos "com
 
 Os membros devem cumprir as leis do seu país. Sugestões, dúvidas e propostas de alteração devem ser enviadas pelo [repositório de issues no GitHub](https://github.com/DragonXen/Comunidade-Nerd/issues).
 
-Última atualização: [15/11/2000]
+Última atualização: [15/11/2026]
