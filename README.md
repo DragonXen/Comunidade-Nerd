@@ -11,8 +11,8 @@ Antes de participar, leia a [Constituição da Comunidade](Regras/CONSTITUICAO.m
 ## Grupos
 
 - **Grupo de Amigos (Off Topic):** conversa livre e informal.
-- **Nerd para Conversar:** animes, mangás, jogos, quadrinhos, séries e cultura geek.
-- **Dev Nerds:** programação, arquitetura de software, DevOps e carreira em TI.
+- **Grupo Nerd para Conversar:** animes, mangás, jogos, quadrinhos, séries e cultura geek.
+- **Devs Nerds:** programação, arquitetura de software, DevOps e carreira em TI.
 - **Hackers Nerd:** cibersegurança com foco educacional e defensivo, como CTFs, laboratórios e defesa de redes.
 
 Cada grupo tem regras próprias, além da constituição geral.
