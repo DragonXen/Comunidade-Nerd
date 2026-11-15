@@ -16,5 +16,5 @@ Você pode peticionar novas regras e melhorias a comunidade clicando em [Problem
 - Respeito aos membros
 - Vendas apenas com permissão
 
-[Isenção de responsabilidade](Avisos/ISENCAO.md)
+[Isenção de responsabilidade](../Avisos/ISENCAO.md)
  da comunidade.
