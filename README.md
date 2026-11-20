@@ -4,6 +4,7 @@ Comunidade de tecnologia e cultura nerd, reunindo desenvolvedores, entusiastas d
 
 ## Participe
 
+Entre no grupo do Signal: [Comunidade Nerd no Signal](https://signal.group/#CjQKIKQsTILXndGlaSKyvTaTA21_WB_c5H1sczWLyWtInzDyEhBCY2aR90vH4xoas509BiH_)
 Entre no grupo do WhatsApp: [Comunidade Nerd no WhatsApp](https://chat.whatsapp.com/Cwjj7TRlOTKJZavAkm94U2)
 
 Antes de participar, leia a [Constituição da Comunidade](Regras/CONSTITUICAO.md), que vale para todos os grupos.
